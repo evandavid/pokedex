@@ -8,8 +8,6 @@ const GlobalStyle = createGlobalStyle`
         margin: 12px 0
     }
 
-   
-
     html {
         background: #5BB9FC;
     }
